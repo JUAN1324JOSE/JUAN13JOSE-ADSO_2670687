@@ -1,0 +1,21 @@
+body{
+    background-color: #cabbca;
+}
+h2{
+    color: rgb(red, green, blue);
+}
+
+.pcg{
+    color: aquamarine;
+    text-align: center;
+}
+.p1{
+    text-align: justify;
+}
+#t1{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight:lighter;
+    text-align: center;
+    
+    
+}    

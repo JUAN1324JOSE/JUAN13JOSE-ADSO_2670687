@@ -1,0 +1,30 @@
+.main-nav{
+    background-color: #39a900;
+    margin: 0;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+.main-nav li{
+    display: inline-block;
+}
+.main-nav-item a{
+color:#fff;
+text-decoration: none;
+padding: 30px 20px 30px 20px;
+display: block;
+border-right: 1px solid #fff;
+
+}
+.main-nav-item a:hover{
+    background-color: #fff;
+    color: #39a900;
+}
+
+
+
+
+h2{
+    text-align: center;
+
+}
